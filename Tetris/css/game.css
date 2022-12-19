@@ -1,0 +1,15 @@
+/* Style the Tetris game board */
+#game-board {
+  width: 400px;
+  height: 600px;
+  background-color: #ccc;
+  border: 1px solid #999;
+}
+
+/* Style the Tetris controls */
+#controls {
+  width: 400px;
+  height: 100px;
+  background-color: #eee;
+  border: 1px solid #999;
+}
